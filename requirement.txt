@@ -1,0 +1,8 @@
+la realización de este proyecto requiere de los siguientes paquetes en R 
+1) tidyverse
+2) tm
+3) NLP
+4) SnowbaLLC
+5) ggwordcloud
+6) RColorBrewer
+
